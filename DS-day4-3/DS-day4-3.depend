@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1696011695 source:d:\data structure\ds-day4-3\main.cpp
+	<iostream>
+	"Node.h"
+
+1696011203 d:\data structure\ds-day4-3\include\node.h
+	<iostream>
+

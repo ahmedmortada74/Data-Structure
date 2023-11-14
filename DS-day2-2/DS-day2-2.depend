@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1695157037 source:d:\data structure\ds-day2-2\main.cpp
+	<iostream>
+	"Node.h"
+
+1695214668 d:\data structure\ds-day2-2\include\node.h
+	<iostream>
+
